@@ -1,0 +1,23 @@
+table{
+	border-collapse: collapse;
+}
+#a{
+	border-top: 1px solid  white;
+	border-left: 1px solid white; 
+}
+#b{
+	border-left: 1px solid white;
+}
+#c{
+	border-bottom: 1px solid white;
+	border-left: 1px solid white;
+}
+#d{
+	border-right: 1px solid white;
+}
+#e{
+	border-right: 1px solid white;
+}
+#f{
+	border-right: 1px solid white;
+}
